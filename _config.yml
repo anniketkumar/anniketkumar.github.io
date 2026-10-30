@@ -1,0 +1,3 @@
+# Keeps README.md off the published site (it still shows on the repo page)
+exclude:
+  - README.md
